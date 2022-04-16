@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background: linear-gradient(#555, #333);
+    color: ;
+}
+
+a{
+    color: darkorange;
+}
+a:hover {
+    color: aqua;
+    text-shadow: 1px 1px 2px orange, 0 0 1em rgb(255, 166, 0), 0 0 0.2em rgb(255, 153, 0);
+}
+
+a:visited:hover {
+    color: aqua;
+}
+
+a:visited {
+    color: violet;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
